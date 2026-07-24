@@ -4,4 +4,4 @@ Dette er min område hvor jeg skal gjøre Boot.dev sine kurser for å lære å p
 Ting å ha i baktankene mens jeg jobber her:
  - Skriv ned komentarer på alt!!! Du har kje hukommelse til å vite hva du tenkte, så skriv ned hva du tenker mens du jobber med oppgavene
  - Vær strukturer med arbeidsoppgavene. Lat som du er i et arbeidsmiljø, de har brukt tid og penger på å finne ut hva som er mest effektiv, så ikke gjenoppfinn hjulet.
- -Google er ditt andt beste venn, og chatGPT er bare et verktøy ikke løsningen. Max er din første bestevenn XD.
+ - Google er ditt andt beste venn, og chatGPT er bare et verktøy ikke løsningen. Max er din første bestevenn XD.
