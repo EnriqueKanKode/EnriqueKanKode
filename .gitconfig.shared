@@ -1,0 +1,3 @@
+[alias]
+        pull-webflyx = !git subtree pull --prefix=boot/4.Learn_Git/webflyx git@github.com:EnriqueKanKode/Webflyx.git main --squash
+        push-webflyx = !git subtree push --prefix=boot/4.Learn_Git/webflyx webflyx main

@@ -1,5 +1,13 @@
-### Heisann
+# Heisann
 Dette er min område hvor jeg skal gjøre Boot.dev sine kurser for å lære å programere i python og C og bruker linux systemer.  jeg skal bruke denne repositorien til å kunne jobbe fra flere maskiner og for å lære meg å bruke git. 
+
+## Viktig
+Jeg har lagt noen aliaser og delt de inn i .gitconfig.shared.\
+Kjør denne komandoen første gangen du skal jobbed med:\
+- webflyx
+
+`git config --local include.path ../.gitconfig.shared`
+
 
 ## Ting å ha i baktankene mens jeg jobber her:
  - Skriv ned komentarer på alt!!! Du har kje hukommelse til å vite hva du tenkte, så skriv ned hva du tenker mens du jobber med oppgavene
@@ -8,7 +16,7 @@ Dette er min område hvor jeg skal gjøre Boot.dev sine kurser for å lære å p
 
 ## Struktur på innhold:
 
-# boot
+## boot
     # kurser
         - Her gjør jeg oppgavene til kursene
         # Navnet til kurset
